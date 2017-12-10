@@ -1,0 +1,9 @@
+---
+subreddit: "Thinking"
+command_prefix: "!"
+
+praw_id: "not-an-id"
+praw_secret: "not-a-secret"
+praw_user_agent: "Thinker"
+
+token: "not-a-token"
